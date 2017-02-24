@@ -1,0 +1,6 @@
+#
+# system.prop for ilium_x510
+#
+
+ro.ctr.forbid_format=/frp,/lk,/uboot,/logo,/metadata,/nvdata,/nvram,/secro
+ro.ctr.forbid_mount=/frp,/lk,/uboot,/logo,/metadata,/nvdata,/nvram,/secro
